@@ -3,8 +3,8 @@
  * main-prints "Programming is like building a multilingual
  *puzzle, followed by a new line
  * return 0 (success)
+ * success the main function
 */
-// the main function starts
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
